@@ -1,3 +1,3 @@
 # presentaciones-equipo
 
-Alejandro: Me gusta programar en TS
+Alejandro: Me gusta programar en TS y me gusta Pokemon
